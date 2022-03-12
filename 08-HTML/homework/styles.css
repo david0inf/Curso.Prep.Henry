@@ -1,0 +1,26 @@
+img {width: 400px;}
+h1 {color: blue;}
+#thirdDiv {height: 600px; width: 500px; background: goldenrod; padding: 50px; border: thick double #32a1ce;
+    display: flex;
+    align-items: center;
+    justify-content: center;}
+
+#spanId {font-size: 18px; margin: 50px;}
+body {
+         background-image: url(https://d2snuf0as1ri2q.cloudfront.net/wp-content/uploads/2017/05/Chow-fan-de-vegetales-04.jpg);
+         background-position: absolute;	  
+         background-repeat: no-repeat;
+         background-attachment: fixed;
+         background-size: cover;
+         
+         display: flex;
+         flex-direction: column;
+         align-items: center;
+         justify-content: space-between;
+         }
+
+
+.contenedor{ display: flex;
+             align-items: center;
+             justify-content: center;}
+
